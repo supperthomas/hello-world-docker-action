@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM lt6210925/rtthread
 
 MAINTAINER supperthomas <78900636@qq.com>
 
